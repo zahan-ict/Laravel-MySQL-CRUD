@@ -7,6 +7,15 @@ This application is dedicated to the MySQL database. There is no CSS or external
 ## Screenshot of post list
 ![Image description](screenshot/message-list.png)
 
+## Screenshot of post insert
+![Image description](screenshot/insert.png)
+
+## Screenshot of post update
+![Image description](screenshot/update.png)
+
+## Screenshot of post delete
+![Image description](screenshot/screenshot/delete.png)
+
 
 ## License
 
