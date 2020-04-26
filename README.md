@@ -14,7 +14,7 @@ This application is dedicated to the MySQL database. There is no CSS or external
 ![Image description](screenshot/update.png)
 
 ## Screenshot of post delete
-![Image description](screenshot/screenshot/delete.png)
+![Image description](screenshot/delete.png)
 
 
 ## License
